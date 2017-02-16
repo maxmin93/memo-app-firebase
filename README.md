@@ -6,3 +6,12 @@
 
 [https://www.inflearn.com/course/파이어베이스-강좌-웹-어플리케이션/](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B0%95%EC%A2%8C-%EC%9B%B9-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98/)
 
+## 완성본 (파이어베이스)
+
+https://memo-app-ba4ad.firebaseapp.com/
+
+## 기능
+
+### 메모 추가/수정/삭제 => 파이어베이스 데이터베이스
+### 로그인 : 구글계정 연동
+
